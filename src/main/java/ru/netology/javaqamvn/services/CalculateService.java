@@ -1,4 +1,4 @@
-package git.homework4;
+package ru.netology.javaqamvn.services;
 public class CalculateService {
     public int calculate(int income, int expenses, int threshold) {
         int count = 0;

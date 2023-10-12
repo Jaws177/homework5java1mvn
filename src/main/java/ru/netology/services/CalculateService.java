@@ -1,4 +1,4 @@
-package ru.netology.javaqamvn.services;
+package ru.netology.services;
 public class CalculateService {
     public int calculate(int income, int expenses, int threshold) {
         int count = 0;
